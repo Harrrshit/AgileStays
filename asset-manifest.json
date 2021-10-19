@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/AgileStays/static/css/main.8625200d.chunk.css",
-    "main.js": "/AgileStays/static/js/main.1d9d6066.chunk.js",
-    "main.js.map": "/AgileStays/static/js/main.1d9d6066.chunk.js.map",
+    "main.js": "/AgileStays/static/js/main.dc796c3d.chunk.js",
+    "main.js.map": "/AgileStays/static/js/main.dc796c3d.chunk.js.map",
     "runtime-main.js": "/AgileStays/static/js/runtime-main.8a8b9804.js",
     "runtime-main.js.map": "/AgileStays/static/js/runtime-main.8a8b9804.js.map",
     "static/css/2.1dd069c0.chunk.css": "/AgileStays/static/css/2.1dd069c0.chunk.css",
@@ -26,6 +26,6 @@
     "static/css/2.1dd069c0.chunk.css",
     "static/js/2.ffad518b.chunk.js",
     "static/css/main.8625200d.chunk.css",
-    "static/js/main.1d9d6066.chunk.js"
+    "static/js/main.dc796c3d.chunk.js"
   ]
 }
