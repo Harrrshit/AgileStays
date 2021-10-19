@@ -15,6 +15,7 @@ function App() {
           <Navbar/>
             <Switch>
               <Route path = "/" component = {HomePage} exact/> 
+              <Route path = "/agilestays" component = {HomePage}/>
               <Route path = "/signin" component = {SignIn} />
               <Route><Redirect path = "/"></Redirect></Route>
             </Switch>
